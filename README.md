@@ -1,2 +1,2 @@
 # lexclipr-link_prediction
-A heterogeneous link prediction based solution for the LexCLiPR dataset
+A heterogeneous graph-based link prediction based solution for the LexCLiPR dataset
